@@ -1,8 +1,6 @@
 
 package java_practice;
 
-import java.util.*;
-
 class ListNode {
     int val;
     ListNode next;
